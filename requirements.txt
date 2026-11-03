@@ -1,0 +1,7 @@
+streamlit
+torch
+torchvision
+transformers
+accelerate
+datasets
+pillow
